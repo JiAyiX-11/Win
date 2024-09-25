@@ -1,11 +1,17 @@
 # Paso 1:
-Ejecutar Rainmeter.exe
+Ejecutar **Rainmeter.exe**
 
 # Paso 2:
-Mover la carpeta Rainmeter a "C:\Users\jiayi\Documents\" e reemplazalo
+ejecutar **install.bat**
 
 # Paso 3:
-Pulsando teclado Win+R e introduce "Appdata" y busca la carpeta Roadming y pega la carpeta que hay dentro 
+mover la carpeta Rainmeter y **reemplazarlo** por la carpeta que estará situado en **C:\Users\%USERNAME%\Documents\Rainmeter** 
 
 # Paso 4:
-Abre Rainmeter y busca diseño y activa JiAyi
+Presiona **Win+R** e introduce "**appdata**" y busca la carpeta Roaming, entra en el y **reemplaza la carpeta Roaming/Rainmeter al de destino**
+
+# Paso 5: 
+En la barra de tarea sal de la aplicación y **vuelve a ejecutar**
+
+# Paso 6:
+en diseño busca **JiAyi** y **actívalo**
