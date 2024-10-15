@@ -1,0 +1,30 @@
+;Edited and optimized by Zack Leonhart - http://zackleonharts.deviantart.com/
+;ComixCursors Black & Red made from the work original 'ComixCursors' by Jens Luetkens [jlue] - http://bit.ly/l4Ym8E
+
+[English] ComixCursors Black & Red. More colors soon... !!!!
+Edited and optimized for Windows users [...well, actually I use Linux xP]. Tested on Win7, Win-Vista and XP
+
+How to install... ? 
+1. Extraxt the folder anywhere
+2. Find  the file Install_[.inf] into the folder extracted
+3. Right - Click, and click in the 'Install' option
+*4. Go to Control Panel > Hardware and Sound > Mouse > Tab Pointers and select in Schemes ComixCursors Black and Red [If you don't use Win7, go to Control Panel > Mouse]
+5. Apply.... & Ready!! xP
+ 
+- - - - - - - - - - - - - - - - - - - - 
+
+[Español]  ComixCursors Black & Red. Más colores... pronto!!
+Editado & optimizado para usuarios de Windows [...bueno, en realidad yo uso Linux xP]. Probado en Windows 7, Windows Vista y XP
+
+Cómo instalar... ? 
+1. Extrae el contenido del archivo en donde sea
+2. Encuentra el archivo Install_[.inf] dentro de la carpeta extraída
+3. Da Click derecho, y luego click en la opción 'Instalar'
+*4. Ve a Panel del control -> Hardware y Sonido -> Mouse -> pestaña 'Punteros' y en Esquemas, selecciona ComixCursors Black and Red [ Sí no usas Win7, ve a Panel de Control > Mouse
+5. Aplicar y Listo!!! xP
+
+- - - - - - - - - - - - - - - - - - - - 
+
+-- Licensed by GPL License - http://bit.ly/lfR3lg
+-- From the work original 'ComixCursors' by Jens Luetkens [jlue] - http://bit.ly/l4Ym8E
+-- Original version: ComixCursors 0.7.2 http://bit.ly/iBtEQ0 
