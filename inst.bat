@@ -1,5 +1,12 @@
 @echo off
 :inicio
+:: Verificar si tiene permisos de administrador
+net session >nul 2>&1
+if %errorLevel% neq 0 (
+    echo Este script necesita ser ejecutado como administrador.
+    pause
+    exit /b
+)
 color 06
 cls
 echo         1.-Escritorio
